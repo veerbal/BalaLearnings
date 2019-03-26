@@ -1,0 +1,12 @@
+D:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+D:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.dll.config
+D:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.dll
+D:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.dll
+D:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.pdb
+F:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.dll.config
+F:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.dll
+F:\Bala\DotNetTry\Calculate\Calculate\bin\Debug\Calculate.pdb
+F:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+F:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.dll
+F:\Bala\DotNetTry\Calculate\Calculate\obj\Debug\Calculate.pdb
